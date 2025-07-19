@@ -1,0 +1,1 @@
+Static website of my project personal portfolio built using WordPress. Used Elemetor plug-in and Simply Static for exporting, then exported to local via VSCode, deployed by Render.com
